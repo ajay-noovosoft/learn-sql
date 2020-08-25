@@ -1,1 +1,1 @@
-# learn-sql
+# Learn SQL
